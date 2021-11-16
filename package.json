@@ -10,7 +10,7 @@
     "author": "Kyle Coberly",
     "license": "ISC",
     "dependencies": {
-        "aws-sdk": "^2.282.1",
+        "aws-sdk": "^2.814.0",
         "body-parser": "^1.18.3",
         "cookie-parser": "^1.4.3",
         "cors": "^2.8.4",
